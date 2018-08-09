@@ -1,0 +1,7 @@
+1 - copie a pasta eduroam para a sua area de trabalho (Desktop), Não pode ser outra local.
+
+2 - execulte o aplicativo config_eduroam como administrador. (botão direito, execultar como administrador)
+
+3 - aguarde, o programa vai se fechar automaticamente.
+
+Pronto agora clique na rede eduroam e coloque seu usuario e senha, boa navegação! :)
